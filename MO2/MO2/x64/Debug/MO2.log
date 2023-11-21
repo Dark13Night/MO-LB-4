@@ -1,0 +1,6 @@
+﻿  MO2.cpp
+D:\Labs\MO2\MO2\MO2.cpp(10,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO2\MO2\MO2.cpp(11,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO2\MO2\MO2.cpp(57,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO2\MO2\MO2.cpp(96,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MO2.vcxproj -> D:\Labs\MO2\x64\Debug\MO2.exe

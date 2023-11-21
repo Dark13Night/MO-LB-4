@@ -1,0 +1,10 @@
+﻿  MO3.cpp
+D:\Labs\MO3\MO3\MO3.cpp(9,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO3\MO3\MO3.cpp(10,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO3\MO3\MO3.cpp(81,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 326 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MO3.vcxproj -> D:\Labs\MO3\x64\Release\MO3.exe
